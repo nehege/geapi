@@ -6,8 +6,6 @@ Create basic express api including:
 - [helmet](https://github.com/helmetjs/helmet) - security
 - [morgan](https://github.com/expressjs/morgan) - logger
 - [dotenv](https://github.com/motdotla/dotenv) - loads environment variables
-- [mocha](https://github.com/mochajs/mocha) - test framework for Node.js
-- [supertest](https://github.com/visionmedia/supertest) - HTTP assertions library for testing
 - error handler
 
 ## Quick Start
@@ -27,5 +25,4 @@ npm start
 npm start       # Starts the server
 npm run dev     # Starts the server with nodemon
 npm run lint    # Lints files under src/
-npm run test    # Tests routes
 ```
